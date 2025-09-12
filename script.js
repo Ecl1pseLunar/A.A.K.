@@ -10,7 +10,7 @@ const arcaneKnowledge = {
             isRestricted: false,
             articles: [
                 {
-                    id: "batalha-de-babylon-hill",
+                    id: "Causalidade Ocorrida em 1993",
                     title: "A Batalha de Babylon Hill",
                     content: `
                         <div class="infobox">
